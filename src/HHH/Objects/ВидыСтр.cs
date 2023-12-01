@@ -12,6 +12,7 @@ namespace IIS.HHH
 {
     using System;
     using System.Xml;
+    using ICSSoft.STORMNET;
     
     
     // *** Start programmer edit section *** (Using statements)
@@ -28,19 +29,22 @@ namespace IIS.HHH
     public enum ВидыСтр
     {
         
-        // *** Start programmer edit section *** (ВидыСтр.ТранспИм CustomAttributes)
-
-        // *** End programmer edit section *** (ВидыСтр.ТранспИм CustomAttributes)
-        ТранспИм,
-        
         // *** Start programmer edit section *** (ВидыСтр.Имущество CustomAttributes)
 
         // *** End programmer edit section *** (ВидыСтр.Имущество CustomAttributes)
+        [Caption("Имущество")]
         Имущество,
         
         // *** Start programmer edit section *** (ВидыСтр.Жизнь CustomAttributes)
 
         // *** End programmer edit section *** (ВидыСтр.Жизнь CustomAttributes)
+        [Caption("Жизнь")]
         Жизнь,
+        
+        // *** Start programmer edit section *** (ВидыСтр.ТранспИм CustomAttributes)
+
+        // *** End programmer edit section *** (ВидыСтр.ТранспИм CustomAttributes)
+        [Caption("ТранспИм")]
+        ТранспИм,
     }
 }

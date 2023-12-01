@@ -12,6 +12,7 @@ namespace IIS.HHH
 {
     using System;
     using System.Xml;
+    using ICSSoft.STORMNET;
     
     
     // *** Start programmer edit section *** (Using statements)
@@ -28,14 +29,16 @@ namespace IIS.HHH
     public enum РезЭксп
     {
         
-        // *** Start programmer edit section *** (РезЭксп.Пройдена CustomAttributes)
-
-        // *** End programmer edit section *** (РезЭксп.Пройдена CustomAttributes)
-        Пройдена,
-        
         // *** Start programmer edit section *** (РезЭксп.НеПройдена CustomAttributes)
 
         // *** End programmer edit section *** (РезЭксп.НеПройдена CustomAttributes)
+        [Caption("Не пройдена")]
         НеПройдена,
+        
+        // *** Start programmer edit section *** (РезЭксп.Пройдена CustomAttributes)
+
+        // *** End programmer edit section *** (РезЭксп.Пройдена CustomAttributes)
+        [Caption("Прйдена")]
+        Пройдена,
     }
 }

@@ -13,7 +13,7 @@ CREATE TABLE "ПердстЭксп"
 
 	"ВидЭксп" NVARCHAR2(255) NULL,
 
-	"РезулЭксп" NVARCHAR2(10) NULL,
+	"РезулЭксп" NVARCHAR2(11) NULL,
 
 	"ЦельЭксп" NVARCHAR2(255) NULL,
 

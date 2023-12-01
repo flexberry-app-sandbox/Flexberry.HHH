@@ -8,7 +8,7 @@ CREATE TABLE ПердстЭксп (
  ОсновПровед VARCHAR(255) NULL,
  Дата TIMESTAMP(3) NULL,
  ВидЭксп VARCHAR(255) NULL,
- РезулЭксп VARCHAR(10) NULL,
+ РезулЭксп VARCHAR(11) NULL,
  ЦельЭксп VARCHAR(255) NULL,
  ОбъектЭксп VARCHAR(255) NULL,
  Номер INT NULL,

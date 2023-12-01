@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-h-h-h-стр-полис-e",
+  "editForm": "i-i-s-h-h-h-стр-полис-e",
+  "external": false,
+  "caption": "Стр полис",
+  "name": "IISHHHСтрПолисL",
+  "className": "СтрПолисL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-h-h-h-стр-полис",
+      "modelProjection": "СтрПолисL"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-h-h-h-договор-стр-e",
+  "editForm": "i-i-s-h-h-h-договор-стр-e",
+  "external": false,
+  "caption": "Договор стр",
+  "name": "IISHHHДоговорСтрL",
+  "className": "ДоговорСтрL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-h-h-h-договор-стр",
+      "modelProjection": "ДоговорСтрL"
+    }
+  ]
+}

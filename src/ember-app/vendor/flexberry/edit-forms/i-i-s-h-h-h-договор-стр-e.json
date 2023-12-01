@@ -1,0 +1,39 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Клиент",
+      "projection": "КлиентL",
+      "detailModelName": null
+    },
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "ПердстЭксп",
+      "projection": "ПердстЭкспL",
+      "detailModelName": null
+    },
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Сотрудники",
+      "projection": "СотрудникиL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Договор стр",
+  "name": "IISHHHДоговорСтрE",
+  "className": "ДоговорСтрE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-h-h-h-договор-стр",
+      "modelProjection": "ДоговорСтрE"
+    }
+  ]
+}

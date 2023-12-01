@@ -1,0 +1,8 @@
+﻿{
+  "nameSpace": "IIS.HHH",
+  "className": "РезЭксп",
+  "enumObjects": {
+    "Пройдена": "",
+    "НеПройдена": ""
+  }
+}

@@ -1,0 +1,64 @@
+﻿{
+  "applicationCaption": "HHH",
+  "applicationTitle": "HHH",
+  "items": [
+    {
+      "link": null,
+      "menuName": "h-h-h",
+      "caption": "HHH",
+      "title": "HHH",
+      "children": [
+        {
+          "link": "i-i-s-h-h-h-пердст-эксп-l",
+          "menuName": null,
+          "caption": "Пердст эксп",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-h-h-h-клиент-l",
+          "menuName": null,
+          "caption": "Клиент",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-h-h-h-стр-полис-l",
+          "menuName": null,
+          "caption": "Стр полис",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-h-h-h-договор-стр-l",
+          "menuName": null,
+          "caption": "Договор стр",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-h-h-h-заяв-на-стр-l",
+          "menuName": null,
+          "caption": "Заяв на стр",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-h-h-h-должности-l",
+          "menuName": null,
+          "caption": "Должности",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-h-h-h-сотрудники-l",
+          "menuName": null,
+          "caption": "Сотрудники",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

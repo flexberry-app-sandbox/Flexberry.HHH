@@ -1,0 +1,39 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Клиент",
+      "projection": "КлиентL",
+      "detailModelName": null
+    },
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "ДоговорСтр",
+      "projection": "ДоговорСтрL",
+      "detailModelName": null
+    },
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Сотрудники",
+      "projection": "СотрудникиL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Стр полис",
+  "name": "IISHHHСтрПолисE",
+  "className": "СтрПолисE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-h-h-h-стр-полис",
+      "modelProjection": "СтрПолисE"
+    }
+  ]
+}

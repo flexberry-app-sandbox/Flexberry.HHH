@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-h-h-h-заяв-на-стр-e",
+  "editForm": "i-i-s-h-h-h-заяв-на-стр-e",
+  "external": false,
+  "caption": "Заяв на стр",
+  "name": "IISHHHЗаявНаСтрL",
+  "className": "ЗаявНаСтрL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-h-h-h-заяв-на-стр",
+      "modelProjection": "ЗаявНаСтрL"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-h-h-h-пердст-эксп-e",
+  "editForm": "i-i-s-h-h-h-пердст-эксп-e",
+  "external": false,
+  "caption": "Пердст эксп",
+  "name": "IISHHHПердстЭкспL",
+  "className": "ПердстЭкспL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-h-h-h-пердст-эксп",
+      "modelProjection": "ПердстЭкспL"
+    }
+  ]
+}
